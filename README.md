@@ -14,19 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-You are a senior technical writer and full-stack developer. Create a professional, well-structured README.md for this project.
+You are a GitHub profile designer and technical writer. Create a professional "Skills" section for my GitHub profile README.md.
 
-FIRST, analyze the codebase (do not guess):
-- Read the root package.json, pnpm-workspace.yaml, tsconfig files, and every package.json inside artifacts/ and scripts/.
-- Identify which artifact is the GAME and which is the CHATBOT. Read their entry points, components, API routes, and .env files.
-- Only write what actually exists in the code. If something is unclear, add a "TODO" note instead of inventing details.
+ABOUT ME:
+- I am a student of Digital Marketing with AI.
+- I build projects using AI tools and modern web technologies.
+- My projects: an AI chatbot (Groq API, built in Replit, deployed on Vercel), a game, and a multipage business website (React + Node.js, built with OpenCode in VS Code).
+- I also create AI-generated content such as video prompts and brand intro videos.
+- Tools I use: pnpm, TypeScript, Prettier, Replit, Vercel, VS Code, OpenCode.
 
-KNOWN FACTS:
-- pnpm monorepo workspace (name: "workspace", MIT license, TypeScript ~5.9). npm and yarn are blocked by a preinstall script, so only pnpm works. Say this clearly in the install steps.
-- Scripts: `pnpm run build`, `pnpm run typecheck`, `pnpm run typecheck:libs`.
-- The workspace contains two projects: (1) a Game and (2) an AI Chatbot.
-- The chatbot is a general Q&A bot that gives professional answers. It is likely built with the Groq API, developed on Replit and deployed on Vercel. Verify this in the code before writing it.
-- Dependency: @replit/connectors-sdk. Dev tools: Prettier, TypeScript.
+TASK:
+1. Create a "Skills" section grouped into these categories:
+   - Digital Marketing (SEO, social media marketing, content marketing, AI marketing tools, etc.)
+   - AI and Prompt Engineering (prompt writing, Groq API, AI chatbots, AI video/image generation)
+   - Web Development (React, Node.js, JavaScript, TypeScript, HTML, CSS)
+   - Tools and Platforms (Git, GitHub, Replit, Vercel, VS Code, pnpm)
+2. Use skill badges from shields.io or skillicons.dev so each skill shows as an icon or badge. Use only real, working badge URLs.
+3. Add a short "About me" intro (2-3 lines) above the skills.
+4. Add a "Featured Projects" section with 3 projects (name, one-line description, tech used, placeholder link).
+5. Add a "Connect with me" section with placeholders for LinkedIn, Email and Instagram.
+6. Optionally add GitHub stats cards (github-readme-stats) using the placeholder USERNAME.
 
-README STRUCTURE (clean Markdown, headings, tables, code blocks):
-1. Title + one-line description + badges<img width="2760" height="1720" alt="ai_chatbot_illustration" src="https://github.com/user-attachments/assets/d4bacf33-6492-49ff-ada9-2497a26d8953" />
+RULES:
+- Only list skills I actually use. Do not add fake or exaggerated skills. If unsure, put a "TODO" comment.
+- Clean Markdown, centered headings, consistent badge style and colors.
+- Simple, professional English. Emojis only sparingly in headings.
+- Replace every placeholder (USERNAME, links) clearly so I can edit them easily.
+- Save the final output as README.md and tell me exactly how to upload it to my username/username repository.
