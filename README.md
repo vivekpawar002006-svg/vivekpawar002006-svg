@@ -49,7 +49,7 @@ Mujhe creativity, AI aur marketing ko ek saath jodkar aisa content aur aisi digi
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| 🎮 **Arrows Puzzle** | Ek fun aur interactive puzzle game. | [TECH] | [LINK] |
+| 🎮 **Arrows Puzzle** | Ek fun aur interactive puzzle game. | [TECH] | [https://arrow-maze-escape.ai.studio] |
 | 🤖 **Arrows Puzzle Chatbot** | Game ke andar ka AI chatbot jo sawalon ke professional jawab deta hai. | Groq API, Replit, Vercel | [LINK] |
 | 💊 **Durga Pharma and Surgical Equipment Website** | Professional, animated multipage website with Home, About, Gallery aur Contact pages. | React, Node.js | [LINK] |
 | 👑 **Zedking Intro Video** | Cinematic logo intro, gold aur electric blue theme, crown aur shockwave effect ke saath. | Motion Graphics | [LINK] |
