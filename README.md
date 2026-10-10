@@ -1,31 +1,94 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vivekpawar002006-svg/vivekpawar002006-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Vivek&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Video%20Editor%20%7C%20Reels%20Creator%20%7C%20Digital%20Marketer&descAlignY=58&descSize=18" width="100%" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Video+Editor+%F0%9F%8E%AC;Reels+Creator+%F0%9F%93%B1;Digital+Marketing+with+AI+%F0%9F%9A%80;Let's+create+something+amazing+%E2%9C%A8" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...<img width="1254" height="1254" alt="ChatGPT Image Oct 6, 2026, 11_07_19 AM" src="https://github.com/user-attachments/assets/adc9e328-a84f-4811-9be8-702af1adec90" />
+</div>
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Section	Details
-Task	Mere liye ek professional aur eye-catching GitHub profile README.md file likho. Output ek complete Markdown file ho, jo main seedha copy karke use kar sakun.
-About Me	Mera naam [APNA NAAM] hai. Main ek Video Editor aur Reels Creator hoon, aur Digital Marketing with AI ka student hoon. 3-4 lines ka friendly intro likho jo mere skills aur seekhne ki lagan dikhaye.
-Skills	Video Editing, Reels Creation (Instagram aur YouTube Shorts), Digital Marketing, AI Tools (prompting, chatbots, AI video), Basic Web Development (React, Node.js). Inhe badges ke saath clean tarike se dikhao.
-Project 1	Arrows Puzzle: ek puzzle game. Title, 1-2 line description, tech used aur [LINK] placeholder do.
-Project 2	Arrows Puzzle Chatbot: game ke andar ka AI chatbot, Groq API se bana, Replit me develop hua aur Vercel par hosted. [LINK] placeholder do.
-Project 3	Durga Pharma and Surgical Equipment Website: multipage animated website, React + Node.js me, pages: Home, About, Gallery, Contact. [LINK] placeholder do.
-Project 4	Zedking Intro Video: cinematic logo intro, gold aur electric blue theme, motion graphics ke saath. [LINK] placeholder do.
-Education	Simple timeline ya list me B.A. (Bachelor of Arts) aur Digital Marketing with AI dikhao.
-Contact	Email, Instagram, YouTube, LinkedIn aur WhatsApp, sab placeholders ke saath.
-Design aur Style	Top par centered heading emojis ke saath, shields.io style skill aur social badges, sections ke beech clean dividers, simple English (ya ek Hinglish tagline), professional-creative look jo content creator aur marketer ke liye suit kare.
-Rules	Jo details mujhe nahi pata, unke liye [PLACEHOLDER] chhod do. Kuch bhi apni taraf se jhooth ya extra achievements mat jodo.
+---
 
-Is poore table ko copy karke AI me paste kar do. Agar kisi row me badlav chahiye, bata dena.
+## 👋 About Me<img width="2760" height="1720" alt="ai_chatbot_illustration" src="https://github.com/user-attachments/assets/047231f8-883b-473c-ad02-aeea25a1eda6" />
+
+
+
+
+Hi! Main **Vivek** hoon, ek **Video Editor** aur **Reels Creator**. Main **B.A.** ke saath **Digital Marketing with AI** seekh raha hoon.
+
+Mujhe creativity, AI aur marketing ko ek saath jodkar aisa content aur aisi digital cheezein banana pasand hai jo logon ka dhyan kheench sake.
+
+> 💡 *"Creativity + AI + Marketing = Growth"*
+
+---
+
+## 🛠️ Skills
+
+### 🎬 Creative
+![Video Editing](https://img.shields.io/badge/Video%20Editing-FF6B6B?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Reels Creation](https://img.shields.io/badge/Reels%20Creation-E1306C?style=for-the-badge&logo=instagram&logoColor=white)
+![Motion Graphics](https://img.shields.io/badge/Motion%20Graphics-9B59B6?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Logo Intro](https://img.shields.io/badge/Logo%20Intros-F1C40F?style=for-the-badge&logoColor=black)
+
+### 📈 Marketing
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-1877F2?style=for-the-badge&logo=googleads&logoColor=white)
+![Social Media](https://img.shields.io/badge/Social%20Media%20Marketing-0A66C2?style=for-the-badge&logo=meta&logoColor=white)
+![Content Creation](https://img.shields.io/badge/Content%20Creation-FF9800?style=for-the-badge&logoColor=white)
+![AI Prompting](https://img.shields.io/badge/AI%20Prompting-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+
+### 💻 Tech
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| 🎮 **Arrows Puzzle** | Ek fun aur interactive puzzle game. | [TECH] | [LINK] |
+| 🤖 **Arrows Puzzle Chatbot** | Game ke andar ka AI chatbot jo sawalon ke professional jawab deta hai. | Groq API, Replit, Vercel | [LINK] |
+| 💊 **Durga Pharma and Surgical Equipment Website** | Professional, animated multipage website with Home, About, Gallery aur Contact pages. | React, Node.js | [LINK] |
+| 👑 **Zedking Intro Video** | Cinematic logo intro, gold aur electric blue theme, crown aur shockwave effect ke saath. | Motion Graphics | [LINK] |
+
+---
+
+## 🎓 Education
+
+| Course | Institute | Year |
+|---|---|---|
+| 🎓 **B.A. (Bachelor of Arts)** | [COLLEGE / UNIVERSITY] | [YEAR] |
+| 📊 **Digital Marketing with AI** | [INSTITUTE] | [YEAR] |
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[USERNAME])
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@[CHANNEL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[USERNAME])
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/[NUMBER])
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Let's create something amazing together! ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+
+</div>
