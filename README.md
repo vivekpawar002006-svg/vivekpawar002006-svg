@@ -10,34 +10,22 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...<img width="1254" height="1254" alt="ChatGPT Image Oct 6, 2026, 11_07_19 AM" src="https://github.com/user-attachments/assets/adc9e328-a84f-4811-9be8-702af1adec90" />
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-You are a GitHub profile designer and technical writer. Create a professional "Skills" section for my GitHub profile README.md.
+Section	Details
+Task	Mere liye ek professional aur eye-catching GitHub profile README.md file likho. Output ek complete Markdown file ho, jo main seedha copy karke use kar sakun.
+About Me	Mera naam [APNA NAAM] hai. Main ek Video Editor aur Reels Creator hoon, aur Digital Marketing with AI ka student hoon. 3-4 lines ka friendly intro likho jo mere skills aur seekhne ki lagan dikhaye.
+Skills	Video Editing, Reels Creation (Instagram aur YouTube Shorts), Digital Marketing, AI Tools (prompting, chatbots, AI video), Basic Web Development (React, Node.js). Inhe badges ke saath clean tarike se dikhao.
+Project 1	Arrows Puzzle: ek puzzle game. Title, 1-2 line description, tech used aur [LINK] placeholder do.
+Project 2	Arrows Puzzle Chatbot: game ke andar ka AI chatbot, Groq API se bana, Replit me develop hua aur Vercel par hosted. [LINK] placeholder do.
+Project 3	Durga Pharma and Surgical Equipment Website: multipage animated website, React + Node.js me, pages: Home, About, Gallery, Contact. [LINK] placeholder do.
+Project 4	Zedking Intro Video: cinematic logo intro, gold aur electric blue theme, motion graphics ke saath. [LINK] placeholder do.
+Education	Simple timeline ya list me B.A. (Bachelor of Arts) aur Digital Marketing with AI dikhao.
+Contact	Email, Instagram, YouTube, LinkedIn aur WhatsApp, sab placeholders ke saath.
+Design aur Style	Top par centered heading emojis ke saath, shields.io style skill aur social badges, sections ke beech clean dividers, simple English (ya ek Hinglish tagline), professional-creative look jo content creator aur marketer ke liye suit kare.
+Rules	Jo details mujhe nahi pata, unke liye [PLACEHOLDER] chhod do. Kuch bhi apni taraf se jhooth ya extra achievements mat jodo.
 
-ABOUT ME:
-- I am a student of Digital Marketing with AI.
-- I build projects using AI tools and modern web technologies.
-- My projects: an AI chatbot (Groq API, built in Replit, deployed on Vercel), a game, and a multipage business website (React + Node.js, built with OpenCode in VS Code).
-- I also create AI-generated content such as video prompts and brand intro videos.
-- Tools I use: pnpm, TypeScript, Prettier, Replit, Vercel, VS Code, OpenCode.
-
-TASK:
-1. Create a "Skills" section grouped into these categories:
-   - Digital Marketing (SEO, social media marketing, content marketing, AI marketing tools, etc.)
-   - AI and Prompt Engineering (prompt writing, Groq API, AI chatbots, AI video/image generation)
-   - Web Development (React, Node.js, JavaScript, TypeScript, HTML, CSS)
-   - Tools and Platforms (Git, GitHub, Replit, Vercel, VS Code, pnpm)
-2. Use skill badges from shields.io or skillicons.dev so each skill shows as an icon or badge. Use only real, working badge URLs.
-3. Add a short "About me" intro (2-3 lines) above the skills.
-4. Add a "Featured Projects" section with 3 projects (name, one-line description, tech used, placeholder link).
-5. Add a "Connect with me" section with placeholders for LinkedIn, Email and Instagram.
-6. Optionally add GitHub stats cards (github-readme-stats) using the placeholder USERNAME.
-
-RULES:
-- Only list skills I actually use. Do not add fake or exaggerated skills. If unsure, put a "TODO" comment.
-- Clean Markdown, centered headings, consistent badge style and colors.
-- Simple, professional English. Emojis only sparingly in headings.
-- Replace every placeholder (USERNAME, links) clearly so I can edit them easily.
-- Save the final output as README.md and tell me exactly how to upload it to my username/username repository.
+Is poore table ko copy karke AI me paste kar do. Agar kisi row me badlav chahiye, bata dena.
