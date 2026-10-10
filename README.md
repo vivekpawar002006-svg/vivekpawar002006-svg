@@ -58,9 +58,9 @@ Mujhe creativity, AI aur marketing ko ek saath jodkar aisa content aur aisi digi
 
 ## 🎓 Education
 
-| Course | Institute | Year |
+| Course |zedking Institute | on going |
 |---|---|---|
-| 🎓 **B.A. (Bachelor of Arts)** | [COLLEGE / UNIVERSITY] | [YEAR] |
+| 🎓 **B.A. (Bachelor of Arts)** | [ ignou | [1st year |
 | 📊 **Digital Marketing with AI** | [INSTITUTE] | [YEAR] |
 
 ---
